@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Represents\ the\ starting\ point\ of\ the\ application.\r\n\r\n\ @author\ Candidate\ number\ 10068\r\n\ @version\ 12-12-2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ starting\ point\ of\ the\ application.\ The\ operating\ system\r\n\ of\ the\ computer\ expects\ to\ find\ a\ publicly\ available\ method\ it\ can\ call\r\n\ without\ having\ to\ create\ objects\ first.\ \r\n\ \r\n\ <p>This\ method\ is\ standardized\ accross\ languages\ and\ operating\ systems\r\n\ and\ must\ have\ the\ signature\ given\ below.\r\n\r\n\ @param\ args\ an\ fixed\ size\ array\ of\ strings\ holding\ arguments\ provided\r\n\ \ \ \ \ \ \ \ from\ the\ command\ line\ during\ the\ startup\ of\ the\ application.\r\n\ \ \ \ \ \ \ \ In\ this\ application,\ args\ is\ not\ being\ used,\ and\ can\ be\ ignored.\r\n
+numComments=2

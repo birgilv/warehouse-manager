@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Categories
+comment0.text=\r\n\ Represents\ the\ valid\ categories\ in\ the\ warehouse\ register.\r\n\r\n\ @author\ Candidate\ number\ 10068\r\n\ @version\ 12-12-2022\r\n
+comment1.params=categoryNumber
+comment1.target=Categories(int)
+comment1.text=\r\n\ Initialise\ with\ the\ corresponding\ categorynumber.\r\n\r\n\ @param\ categoryNumber\ The\ categorynumber.\r\n
+comment2.params=
+comment2.target=int\ getCategory()
+comment2.text=\r\n\ Returns\ the\ category\ as\ a\ number.\r\n\r\n\ @return\ The\ category\ as\ a\ number.\r\n
+comment3.params=number
+comment3.target=Categories\ getCategoryByNumber(int)
+comment3.text=\r\n\ Returns\ the\ found\ category\ to\ the\ given\ corresponding\ categorynumber.\r\n\r\n\ @param\ number\ The\ categorynumber\ to\ be\ found\r\n\ @return\ The\ found\ category\ to\ the\ given\ corresponding\ categorynumber.\r\n
+numComments=4
